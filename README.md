@@ -49,5 +49,5 @@ Or open `Library_Management_Portal.ipynb` in Jupyter and choose **Run All**.
 ## Team
 | Name | Roll No | Main contribution |
 |---|---|---|
-| Rija Maqsood | 25L-5302 | [modules] |
-| Sofia Noreen | 25L-5301 | [modules] |
+| Rija Maqsood | 25L-5302 | File handling, login system, report generation, Word/PDF report  |
+| Sofia Noreen | 25L-5301 |  Book records, issue/return logic, Jupyter Notebook, GitHub repository and screenshots  |
