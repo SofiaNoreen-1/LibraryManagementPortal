@@ -1,0 +1,61 @@
+[
+    {
+        "book_id": "B001",
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "year": 2019,
+        "total_copies": 3,
+        "available": 1,
+        "issued_to": [
+            "sara",
+            "ali"
+        ]
+    },
+    {
+        "book_id": "B002",
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "year": 2008,
+        "total_copies": 2,
+        "available": 2,
+        "issued_to": []
+    },
+    {
+        "book_id": "B003",
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "year": 2009,
+        "total_copies": 1,
+        "available": 0,
+        "issued_to": [
+            "ali"
+        ]
+    },
+    {
+        "book_id": "B004",
+        "title": "Automate the Boring Stuff",
+        "author": "Al Sweigart",
+        "year": 2020,
+        "total_copies": 2,
+        "available": 2,
+        "issued_to": []
+    },
+    {
+        "book_id": "B005",
+        "title": "The Pragmatic Programmer",
+        "author": "David Thomas",
+        "year": 2019,
+        "total_copies": 1,
+        "available": 1,
+        "issued_to": []
+    },
+    {
+        "book_id": "B006",
+        "title": "Mirror",
+        "author": "EDMINTON",
+        "year": 2000,
+        "total_copies": 4,
+        "available": 4,
+        "issued_to": []
+    }
+]
